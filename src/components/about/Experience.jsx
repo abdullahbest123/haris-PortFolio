@@ -3,15 +3,15 @@ import React from "react";
 const experienceContent = [
   {
     year: "   2023 - Present",
-    position: " Web Developer",
+    position: "UI/UX Designer",
     compnayName: "Web Stacking",
-    details: `Currently Doing Web Developing at Web Stacking. using MERN Stack Technology for the webstite development`,
+    details: `Currently I am UI/UX Designer at Web Stacking. using MERN Stack Technology for the webstite development`,
   },
   {
     year: "2019 - 2022",
-    position: " Game Developer",
-    compnayName: "The Prime Codes",
-    details: `Making game is Fun. I develop few games for mobile and have a excellent knowledge of C-Sharp Language`,
+    position: "NFT Artist",
+    compnayName: "Pro NFT Maker",
+    details: `Making NFT is Fun. Creating NFT is my art`,
   },
   // {
   //   year: "2018 - 2019",

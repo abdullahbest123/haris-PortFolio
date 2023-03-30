@@ -1,16 +1,16 @@
 import React, { useState } from "react";
 import Modal from "react-modal";
-import heroImg from "../../assets/img/my/abdullah.jpg";
-import heroImgMobile from "../../assets/img/my/abdullahsmall.jpg";
+import heroImg from "../../assets/img/my/haris.jpg";
+import heroImgMobile from "../../assets/img/my/harissmall.jpg";
 import cancelImg from "../../assets/img/cancel.svg";
 import Index from "../../components/about/index";
 
 const heroContent = {
   heroImage: heroImg,
   heroMobileImage: heroImgMobile,
-  heroTitleName: "Muhammad Abdullah",
-  heroDesignation: "Web Developer",
-  heroDescriptions: `As a web developer, I possess a strong technical skill set, including proficiency in multiple programming languages, which allows me to build robust and scalable web applications that meet the needs of clients and end-users.`,
+  heroTitleName: "Haris Ali",
+  heroDesignation: "UI/UX Developer",
+  heroDescriptions: `As a UI/UX Designer, I specialize in designing and developing intuitive and visually appealing interfaces for digital products. With a keen eye for detail and a passion for creating seamless user experiences, I strive to deliver engaging solutions that exceed user expectations.`,
   heroBtn: "more about me",
 };
 
